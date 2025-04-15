@@ -1,0 +1,3 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+2	:	1744719410.863	    13.779	0	0	0	0	sage odd_rank.sage >| logs/odd_rank.txt
+1	:	1744719410.857	    24.061	0	0	0	0	sage even_rank.sage >| logs/even_rank.txt
