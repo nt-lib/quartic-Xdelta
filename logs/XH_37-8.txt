@@ -1,8 +1,8 @@
-Magma V2.28-3     Tue Apr 15 2025 14:58:40 on euler    [Seed = 3612270191]
+Magma V2.28-3     Tue Apr 15 2025 15:04:48 on euler    [Seed = 1189039982]
 Type ? for help.  Type <Ctrl>-D to quit.
 
 Loading file "XH_37-8.m"
 number of rational points found:  6
 Found a degree 4 function!
 
-Total time: 0.300 seconds, Total memory usage: 32.09MB
+Total time: 0.310 seconds, Total memory usage: 32.09MB

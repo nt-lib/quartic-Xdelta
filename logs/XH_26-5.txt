@@ -1,4 +1,4 @@
-Magma V2.28-3     Tue Apr 15 2025 14:58:40 on euler    [Seed = 3561872748]
+Magma V2.28-3     Tue Apr 15 2025 15:04:48 on euler    [Seed = 1155353964]
 Type ? for help.  Type <Ctrl>-D to quit.
 
 Loading file "XH_26-5.m"

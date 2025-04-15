@@ -1,4 +1,4 @@
 Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
-2	:	1744721921.054	     5.328	0	0	0	0	sage multiplicity_two.sage >| logs/multiplicity_two.txt
-3	:	1744721921.059	    13.700	0	0	0	0	sage odd_rank.sage >| logs/odd_rank.txt
-1	:	1744721921.048	    24.117	0	0	0	0	sage even_rank.sage >| logs/even_rank.txt
+2	:	1744722288.961	     5.259	0	0	0	0	command time -o logs/multiplicity_two.timing.txt -v sage multiplicity_two.sage >| logs/multiplicity_two.txt
+3	:	1744722288.965	    13.782	0	0	0	0	command time -o logs/odd_rank.timing.txt -v sage odd_rank.sage >| logs/odd_rank.txt
+1	:	1744722288.958	    24.085	0	0	0	0	command time -o logs/even_rank.timing.txt -v sage even_rank.sage >| logs/even_rank.txt
